@@ -1,0 +1,19 @@
+[{
+		"id": 1,
+		"name": "Сыр",
+		"price": 180,
+		"inCart": false
+	},
+	{
+		"id": 2,
+		"name": "Хлеб",
+		"price": 30,
+		"inCart": false
+	},
+	{
+		"id": 3,
+		"name": "Молоко",
+		"price": "90",
+		"inCart": false
+	}
+]
